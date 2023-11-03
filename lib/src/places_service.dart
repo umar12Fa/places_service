@@ -1,7 +1,7 @@
 library places_service;
 
 import 'package:geolocator/geolocator.dart';
-import 'package:google_maps_webservice_ex/places.dart';
+import 'package:google_maps_webservice/places.dart';
 import 'package:tuple/tuple.dart';
 import 'package:uuid/uuid.dart';
 
